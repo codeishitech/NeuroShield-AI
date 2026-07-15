@@ -1,0 +1,6 @@
+{
+  "name": "NeuroShield AI",
+  "description": "Enterprise-grade Behaviour DNA cybersecurity dashboard for banking insider threat detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
